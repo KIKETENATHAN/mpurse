@@ -1,0 +1,38 @@
+/* Template Name: Appgen - App & Saas Landing Page Template
+   Author: Shreethemes
+   Website: http://shreethemes.in
+   Email: shreethemes@gmail.com
+   Version: 2.0.0
+   Created: June 2020
+   File Description: Main Css file of the template
+*/
+
+/****************************/
+/*         INDEX            */
+/*===========================
+ *     01.  Variables       *
+ *     02.  General         *
+ *     03.  Helper          *
+ *     04.  Boostrap Custom *
+ *     05.  Components      *
+ *     06.  Menu            *
+ *     07.  Home            *
+ *     08.  Features        *
+ *     09.  Testi           *
+ *     10.  CTA             *
+ *     11.  Contact         *
+ *     12.  Footer          *
+ ===========================*/
+
+@import "variables";
+@import "general";
+@import "helper";
+@import "bootstrap-custom";
+@import "components";
+@import "menu";
+@import "home";
+@import "features";
+@import "testi";
+@import "cta";
+@import "contact";
+@import "footer";
